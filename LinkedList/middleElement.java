@@ -20,7 +20,7 @@ For example
 /* Node of a linked list
  class Node {
    int data;
-    Node next;
+    Node next;0
     Node(int d)  { data = d;  next = null; }
 }
 */
