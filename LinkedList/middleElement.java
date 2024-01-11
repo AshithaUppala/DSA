@@ -25,6 +25,8 @@ For example
 }
 */
 
+
+
 class Solution
 {
     int getMiddle(Node head)
